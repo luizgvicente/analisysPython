@@ -1,3 +1,5 @@
+![Imagem Inicial](/inicial.jpg)
+
 # Análises com Python
 
 1º Projeto - Exploração da base de dados dos Aplicativos do Google.
